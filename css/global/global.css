@@ -7,8 +7,11 @@ body {
 h1,
 h2,
 h3,
-h4 ul,
-p {
+h4, 
+ul,
+p,
+blockquote,
+dd {
   margin: 0px;
 }
 
